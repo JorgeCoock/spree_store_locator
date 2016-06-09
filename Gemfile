@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'geocoder'
 gem 'haml-rails'
 gem 'jbuilder'
 gem 'pry', group: [:development, :test]
